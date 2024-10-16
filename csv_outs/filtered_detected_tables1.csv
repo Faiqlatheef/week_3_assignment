@@ -1,0 +1,10 @@
+Parameter,Details
+Assay Method,HPLC using UV detection @ 292 nm
+Compound,MI (A771726) the main metabolite of leflunomide
+Matrix,Plasma
+Accuracy Between-day,94.8%-109.5%
+Imprecision (CV%) Between-day,1.7%-6.5%
+Standard Curve Range,0.1-100 mcg/mL
+Sensitivity (LOQ),0.1 mcg/mL (CV% - 4.4% and Accuracy - 102.3%)
+Selectivity,No interfering peaks were observed at the retention time for M1 and its IS.
+Stability,Stable in human plasma for at least 53 weeks at -10°C to -30°C
